@@ -1,10 +1,10 @@
 <?php
     class ActionEnum{
-        const HOME = "HOME";
-        const FORM = "FORM";
-        const INFO = "INFO";
-        const EDIT = "EDIT";
-        const GUARDAR = "GUARDAR";
+        static const HOME = "HOME";
+        static const FORM = "FORM";
+        static const INFO = "INFO";
+        static const EDIT = "EDIT";
+       static const GUARDAR = "GUARDAR";
     }
 
 ?>
