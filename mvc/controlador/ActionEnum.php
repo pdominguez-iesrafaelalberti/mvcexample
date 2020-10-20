@@ -1,5 +1,5 @@
 <?php
-    abstract class ActionEnum{
+    class ActionEnum{
         const HOME = "HOME";
         const FORM = "FORM";
         const INFO = "INFO";
